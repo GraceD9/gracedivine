@@ -1,0 +1,21 @@
+body {
+	background-color: rosybrown;
+}
+h1 {
+  color: lightgoldenrodyellow;
+  align-content:center;
+}
+h2 {
+  color: lightgoldenrodyellow;
+}
+p {
+	color: snow;
+}
+h3 {
+	color: snow;
+}
+border {
+  border: 10px solid salmon;
+  border-radius: 20px;
+}
+
