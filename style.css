@@ -1,12 +1,23 @@
+li{
+	padding: 25px ;
+	color: mediumvioletred;
+	display: inline-block;
+	font-size: 30px;
+	font-family: Verdana;
+}
+
+
 body {
 	background-color: rosybrown;
 }
 h1 {
   color: lightgoldenrodyellow;
   align-content:center;
+  text-align: center;
 }
 h2 {
   color: lightgoldenrodyellow;
+  text-align: center;
 }
 p {
 	color: snow;
@@ -14,8 +25,5 @@ p {
 h3 {
 	color: snow;
 }
-border {
-  border: 10px solid salmon;
-  border-radius: 20px;
-}
+
 
